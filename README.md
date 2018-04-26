@@ -1,9 +1,9 @@
-TDD 기반의 Nodejs Server API server lab 3
+Nodejs Server API server 개발 3
 ==================================
 
 
 > - **Note**
-> - TDD 방법론을 활용한 Nodejs API Server 개발 2 => https://github.com/showbu03/nodejs_api_tdd_lab2
+> - TDD 방법론을 활용한 Nodejs API Server 개발 2 => https://github.com/phantasmicmeans/nodejs_API_tutorial2
 
 api/user로 분리된 API에서 Controller단 분리
 ------------------------------
